@@ -13,6 +13,9 @@
   .right-event-content { width: 100%; }
   .right-event-content { margin-top: 30px; } 
   #about_menu,#classes_menu,#admission_menu{display: none;transition:0.8s;}
+    .sf-with-ul i {
+    display: inline-block;
+    color: white;}
 }
 @media (max-width: 581px) { .header-left, .header-right { text-align: center; }
   .flex-direction-nav, .slider-caption, .footer-nav, .list-event-item .list-event-header, .course-list .ui-icon, .blog-post-meta { display: none; }
@@ -32,4 +35,8 @@
   .logo img{width:100%; }
   .main-slideshow, .flexslider{width:100%;}
   #about_menu,#classes_menu,#admission_menu{display: none;transition:0.8s;}
+  .sf-with-ul i {
+    display: inline-block;
+  color: white;}
+
 }
