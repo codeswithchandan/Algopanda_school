@@ -13,9 +13,7 @@
   .right-event-content { width: 100%; }
   .right-event-content { margin-top: 30px; } 
   #about_menu,#classes_menu,#admission_menu{display: none;transition:0.8s;}
-    .sf-with-ul i {
-    display: inline-block;
-    color: white;}
+
 }
 @media (max-width: 581px) { .header-left, .header-right { text-align: center; }
   .flex-direction-nav, .slider-caption, .footer-nav, .list-event-item .list-event-header, .course-list .ui-icon, .blog-post-meta { display: none; }
@@ -25,7 +23,7 @@
   .list-event-thumb { width: 100%; overflow: hidden; }
   .list-event-thumb img { width: 100%; height: auto; }
   .list-event-thumb, .left-event-content, .course-list .level { float: none; }
-  
+
   .select-yes { margin: 0; }
   .search-form-item { margin: 20px 0 0 0; }
   .left-event-content img, .search-form-item, .course-search-form .searchbox, .right-event-content, .contact-form input, .contact-form .contact-label, .contact-form textarea { width: 100%; max-width: 100%; }
@@ -36,8 +34,4 @@
   .logo img{width:100%; }
   .main-slideshow, .flexslider{width:100%;}
   #about_menu,#classes_menu,#admission_menu{display: none;transition:0.8s;}
-  .sf-with-ul i {
-    display: inline-block;
-  color: white;}
-
 }
