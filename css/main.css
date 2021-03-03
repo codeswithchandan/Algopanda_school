@@ -4046,10 +4046,12 @@ select.mobile-device {
   padding:20px;
   border-radius: 5px;
   text-align: center;
+  margin:0 auto;
 }
 #boxes #dialog {
+  width:50%; 
   height:auto;
-  padding: 10px 10px 10px 10px;
+  padding: 10px;
   background-color:#ffffff;
   font-size: 15pt;
 }

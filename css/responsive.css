@@ -13,6 +13,10 @@
   .right-event-content { width: 100%; }
   .right-event-content { margin-top: 30px; } 
   #about_menu,#classes_menu,#admission_menu{display: none;transition:0.8s;}
+    #boxes #dialog {
+  width:80%; 
+
+}
 
 }
 @media (max-width: 581px) { .header-left, .header-right { text-align: center; }
@@ -34,4 +38,8 @@
   .logo img{width:100%; }
   .main-slideshow, .flexslider{width:100%;}
   #about_menu,#classes_menu,#admission_menu{display: none;transition:0.8s;}
+  #boxes #dialog {
+  width:80%; 
+
+}
 }
